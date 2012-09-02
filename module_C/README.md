@@ -11,4 +11,7 @@ Simply type
 
     make run
 
-to build and run the program
+to build and run the program.
+
+This assumes gcc and a unix-like environment with the "rt" library for "time.h",
+usually installed along with gcc.
