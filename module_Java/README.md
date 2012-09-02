@@ -26,7 +26,6 @@ Ant
 
 To build:
 
-    cd src/
     ant
 
 To run:
